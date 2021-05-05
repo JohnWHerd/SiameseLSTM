@@ -1,0 +1,7 @@
+experiment_name: 'siamese-lstm-final'
+
+training:
+    learning_rate: 0.01
+
+model:
+    embedding_saved: True
